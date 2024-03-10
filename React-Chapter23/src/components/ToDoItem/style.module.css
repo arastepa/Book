@@ -1,0 +1,28 @@
+.task{
+    background: #985effc9;
+    margin: 18px;
+    padding: 6px 15px;
+    border-radius: 4px 23px 3px 18px;
+}
+
+.task button{
+    border: none;
+    padding: 7px 22px;
+    margin: 10px;
+    background: white;
+}
+
+.main{
+    font-size:28px;
+    font-weight: bolder;
+}
+
+.completed{
+    background: #985effc9;
+    margin: 18px;
+    padding: 6px 15px;
+    border-radius: 4px 23px 3px 18px;
+    opacity:0.5;
+    text-decoration: line-through;
+}
+
